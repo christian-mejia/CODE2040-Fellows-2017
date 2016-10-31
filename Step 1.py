@@ -1,4 +1,4 @@
-#Step 1 Registration
+#Step 1: Registration
 
 import json
 import requests
